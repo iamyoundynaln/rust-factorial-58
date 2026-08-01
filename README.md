@@ -1,2 +1,4 @@
-# rust-factorial-58
+# Rust Factorial 58
+
 Multiplying recursive integer values in Rust.
+
